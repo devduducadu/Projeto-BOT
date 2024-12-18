@@ -1,14 +1,3 @@
-'''
-"por onde eu começo??" MANULMENTE
-
-primeira etapa -> escrever um passo a passo.
-passo 1; entra no sistema da empresa.
-https://dlp.hashtagtreinamentos.com/python/intensivao/login
-passo 2; fazer login.
-passo 3; importar a base de dados.
-passo 4; cadastrar 1 produto.
-passo 5; repetir o processo ate acabar.
-'''
 
 import time
 import pyautogui
